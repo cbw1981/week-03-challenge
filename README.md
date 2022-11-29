@@ -7,5 +7,7 @@ N/A
 
 
 ## Usage
+https://github.com/cbw1981
 
+https://cbw1981.github.io/week-03-challenge/
 
